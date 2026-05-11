@@ -5,8 +5,9 @@ Peritaje de calidad de suministro eléctrico
 -  Aroa Jimenez Ojeda
 -  Andrés Salmerón Plaza
 
-# Cliente: Estudio de grabación musical
-Documentación del caso
+*Cliente: Estudio de grabación musical*
+
+# Documentación del caso
 ===========================================
 Estudio profesional con consola analógica, previos de válvulas, monitores de referencia, ordenadores Mac, racks de efectos digitales y un aire acondicionado muy silencioso. El cliente escucha zumbidos esporádicos en las grabaciones y sospecha del suministro.
 
